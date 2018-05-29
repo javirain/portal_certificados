@@ -1,0 +1,28 @@
+.form-certificado .header-mesa-fielset{
+    width: 376px;
+    height: 220px;
+    margin: 45px auto 0 auto;
+    float: none;
+}
+
+.form-certificado .header-mesa-fielset .field_modal{
+    width: 100%;
+    margin: 0 0 5px 0;
+}
+.form-certificado .header-mesa-fielset .field_modal label{
+    float: left;
+    width: 80px
+}
+.form-certificado .header-mesa-fielset .field_modal input.file{
+    background: none;
+    border: none;
+    overflow: hidden;
+    width: 376px;
+    position: relative
+}
+.social-icon{
+    width: 23px;
+    height: 23px;
+    float: left;
+    margin: 0 5px 0 0
+}

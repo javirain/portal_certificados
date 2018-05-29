@@ -1,0 +1,82 @@
+#mesa-ayuda #telefono{
+    float:left;
+    width:210px;
+    margin: 15px 0 0 35px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+}
+#header-mesa #telefono{
+    float:left;
+    width:210px;
+    margin: 40px 0 0 80px;
+    color: #DD9300;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: arial, sans-serif;
+}
+#dialog .listado-certificado{
+    background: none;
+    margin:10px 0 0 0
+}
+#dialog .listado-certificado ul li{
+    color: #20437D;
+    margin: 0 0 5px 0
+}
+#ver_mas_vitrina{
+    color:white;
+    cursor:pointer;
+    text-align:right;
+    float:left;
+    position:absolute;
+    margin:20px 0 0 0;
+    padding:0 0 0 220px
+}
+#dialog-verifica .titulo {
+    background: none repeat scroll 0 0 #E98F00;
+    border: 1px solid #C47902;
+    color: #FFFFFF;
+    height: 23px;
+    margin: 0;
+    width: 320px;
+}
+#dialog-verifica .titulo span {
+    padding: 0 0 0 10px;
+}
+.item-cert {
+    background: none repeat scroll 0 0 #EDEDED;
+    float: left;
+    margin: 5px 0;
+    padding: 0 0 10px;
+    width: 322px;
+}
+
+.tipo-cert {
+    float: left;
+    font-size: 16px;
+    line-height: 21px;
+    margin: 10px 0 0 10px;
+    width: 310px;
+}
+
+
+.subtitulo-cert {
+    float: left;
+    font-size: 11px;
+    line-height: 14px;
+    margin: 2px 0 0 10px;
+    width: 300px;
+}
+
+
+.inputwrapper .boton_verificar {
+    background: none repeat scroll 0 0 #DD9300;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 11px;
+    line-height: 25px;
+    margin: 20px auto 0;
+    padding: 5px 20px;
+    width: 130px;
+}
